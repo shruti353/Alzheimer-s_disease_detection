@@ -1,5 +1,6 @@
 # Alzheimer’s Disease Classification using MRI Scans
-** Overview**
+
+**Overview**
 This project focuses on automated Alzheimer’s disease classification using MRI brain scans. The model leverages transfer learning with EfficientNetB0 and a custom CNN head to classify MRI images into four cognitive states:
 
 
@@ -108,6 +109,3 @@ Add Grad-CAM visualization for model explainability
 Ms. Shruti Thakkar
 MSC Data Science
 Alliance University, Bangalore 
-
-MSC Data Science Student,
-Alliance University, Bangalore
