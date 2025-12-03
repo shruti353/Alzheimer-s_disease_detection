@@ -1,0 +1,21 @@
+# Core
+numpy>=1.23
+pillow>=9.0
+matplotlib>=3.5
+scikit-learn>=1.1
+pandas>=1.4
+seaborn>=0.11
+
+# TensorFlow (includes EfficientNet in tf.keras.applications)
+tensorflow>=2.10
+
+# ONNX support (optional; needed only if you export/load ONNX models)
+tf2onnx>=1.14
+onnx>=1.14
+onnxruntime>=1.15
+
+# For image preprocessing & utilities
+opencv-python>=4.6  # optional
+
+# CLI / packaging helpers
+tqdm>=4.64
