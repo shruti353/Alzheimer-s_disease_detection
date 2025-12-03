@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+*.env
+.ipynb_checkpoints/
+
+# Data & models
+/data/
+/dataset/
+/datasets/
+*.h5
+*.hdf5
+*.onnx
+*.ckpt
+*.pt
+*.pth
+model/
+models/
+weights/
+*.tar.gz
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Jupyter
+*.nbformat
+outputs/
+
+# Git LFS placeholder
+*.zip
+*.tar
